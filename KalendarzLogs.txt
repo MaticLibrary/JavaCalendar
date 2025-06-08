@@ -8,3 +8,10 @@ Przesunięto o tydzień w przód: 15-06-2025
 Przesunięto o tydzień w przód: 22-06-2025
 Dodano element z datą: 12-12-1224
 Przesunięto o tydzień w przód: 19-12-1224
+Dodano element z datą: 8-06-2025
+Dodano element z datą: 12-09-2007
+Przesunięto o tydzień w przód: 19-09-2007
+Przesunięto o tydzień w przód: 26-09-2007
+Przesunięto o tydzień w tył: 19-09-2007
+Zmieniono format daty na: KROPKI
+Przesunięto o tydzień w przód: 26-09-2007

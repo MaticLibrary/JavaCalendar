@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class KalendarzApp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -45,6 +46,11 @@ public class KalendarzApp {
                     System.out.println("SKROT: wt., 1-gru-2020");
                     System.out.println("lub wpisz własny znak oddzielający (np. '.' lub '-')");
                     format = scanner.nextLine();
+                    try (java.io.Writer w = new java.io.PrintWriter(new java.io.FileWriter("KalendarzLogs.txt", true))) {
+                        w.write("Zmieniono format daty na: " + format + "\n");
+                    } catch (java.io.IOException e) {
+                        System.out.println("Wystąpił błąd podczas zapisu logu: " + e.getMessage());
+                    }
                     break;
                 case "5":
                     System.out.println("Koniec programu.");
