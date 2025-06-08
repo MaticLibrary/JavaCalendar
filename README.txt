@@ -16,8 +16,6 @@
  *     <li>Zakończenie programu</li>
  * </ul>
  * 
- * @author Twoje Imię
- * @version 1.0
  */
 public class KalendarzApp {
     /**
