@@ -1,0 +1,10 @@
+Dodano element z datą: 29-02-2000
+Przesunięto o tydzień w przód: 7-03-2000
+Przesunięto o tydzień w tył: 29-02-2000
+Dodano element z datą: 12-01-2021
+Dodano element z datą: 1-01-2024
+Dodano element z datą: 8-06-2025
+Przesunięto o tydzień w przód: 15-06-2025
+Przesunięto o tydzień w przód: 22-06-2025
+Dodano element z datą: 12-12-1224
+Przesunięto o tydzień w przód: 19-12-1224
